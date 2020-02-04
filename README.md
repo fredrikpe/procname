@@ -8,7 +8,7 @@ Set process name of command
 $ make install
 ```
 
-## Usage
+## Example
 ```
 $ procname MY_NAME sleep 10 & ps
 ```
